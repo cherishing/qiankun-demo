@@ -5,11 +5,11 @@
 Install dependencies,
 
 ```bash
-$ yarn
+$ npm i
 ```
 
 Start the dev server,
 
 ```bash
-$ yarn start
+$ npm start
 ```

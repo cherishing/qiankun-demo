@@ -37,6 +37,9 @@ npm i @umijs/plugin-qiankun -D
 ### 3. 项目名称一定要配置
 修改package.json的name
 
+主应用引用的地方项目名称在注册子应用的时候可以和子应用不一致，
+但是在主应用中需要保持和注册子应用name一致
+
 ```
   "name": "subApp"
 ```
